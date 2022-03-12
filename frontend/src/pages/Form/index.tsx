@@ -9,6 +9,12 @@ function Form() {
         title: "The Witcher",
         count: 2,
         score: 4.5
+
+        id: 2
+        image: "https://upload.wikimedia.org/wikipedia/pt/1/1a/Spider-Man_2.jpg",
+        title: "SPIDER-MAN 2",
+        count: 2,
+        score: 4.5
     };
 
     return (
